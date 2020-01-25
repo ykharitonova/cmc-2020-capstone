@@ -5,6 +5,7 @@
 # Teams
 1. Avvo
 
+* Jordan Leonard
 * Spencer Sheff
 * Abhi
 
