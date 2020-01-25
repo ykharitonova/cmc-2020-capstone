@@ -12,6 +12,9 @@
 Connor Schulz
 5. Wellpath
 
+6. Instructor
+Jeho Park
+
 ## Helpful tips
 
 ### Jupyter Notebooks
