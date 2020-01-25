@@ -1,5 +1,14 @@
 # cmc-2020-capstone
 
+# Instructor
+
+# Teams
+1. Avvo
+2. Dodgers
+3. Flexfit
+4. Sierra Madre
+5. Wellpath
+
 ## Helpful tips
 
 ### Jupyter Notebooks
