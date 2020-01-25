@@ -17,7 +17,7 @@
 * Yao Li
 
 3. Flexfit
-* Laky
+* Laky Li
 * Michael
 * Samuel Lee
 * Jayden Ha
