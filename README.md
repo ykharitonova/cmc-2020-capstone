@@ -14,6 +14,7 @@
 * Andrew Kim
 * Vladyslav Ivanov (https://bit.ly/38ChfPF)
 * Josh Tatum
+* Yao Li
 
 3. Flexfit
 * Michael
