@@ -5,7 +5,10 @@
 # Teams
 1. Avvo
 2. Dodgers
-  Josh Tatum
+
+* Andrew Kim
+* Josh Tatum
+
 3. Flexfit
   Michael
 4. Sierra Madre
