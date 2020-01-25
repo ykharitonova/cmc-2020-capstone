@@ -5,9 +5,14 @@
 # Teams
 1. Avvo
 2. Dodgers
-  Andrew Kim
+
+* Andrew Kim
+* Josh Tatum
+
 3. Flexfit
+  Michael
 4. Sierra Madre
+Connor Schulz
 5. Wellpath
 
 ## Helpful tips
