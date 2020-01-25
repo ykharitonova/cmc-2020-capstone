@@ -4,6 +4,7 @@
 
 # Teams
 1. Avvo
+* Jordan Leonard
 2. Dodgers
 
 * Andrew Kim
