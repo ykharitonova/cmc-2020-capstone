@@ -1,4 +1,5 @@
-Unix commands
+# Unix commands
+
 * `cd` returns you to your home directory (e.g., `/cs/student/cgaucho/`, if your username is cgaucho)
 * `pwd` prints your current working directory
 * `cd cs8` changes into the cs8 directory if cs8 is in the current directory
