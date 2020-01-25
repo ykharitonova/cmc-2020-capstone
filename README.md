@@ -10,7 +10,8 @@
 * Josh Tatum
 
 3. Flexfit
-  Michael
+* Michael
+* Samuel Lee
 4. Sierra Madre
 Connor Schulz
 Sarah Lu
