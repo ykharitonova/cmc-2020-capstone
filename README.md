@@ -26,7 +26,8 @@
 Connor Schulz
 Sarah Lu
 5. Wellpath
-  Casey Morris
+* Xinran Xing
+* Casey Morris
 
 ## Helpful tips
 
