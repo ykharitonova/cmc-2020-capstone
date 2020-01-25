@@ -8,6 +8,7 @@
 2. Dodgers
 
 * Andrew Kim
+* Vladyslav Ivanov (https://bit.ly/38ChfPF)
 * Josh Tatum
 
 3. Flexfit
