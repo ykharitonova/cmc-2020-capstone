@@ -6,6 +6,8 @@
 1. Avvo
 2. Dodgers
 3. Flexfit
+Laky Li, Samuel Lee, Micheal Hess, Timur, Hayden Ha
+
 4. Sierra Madre
 5. Wellpath
 
