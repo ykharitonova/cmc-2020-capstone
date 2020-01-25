@@ -5,7 +5,10 @@
 # Teams
 1. Avvo
 * Sarah Tritschler
+* Jordan Leonard
+* Spencer Sheff
 * Abhi
+
 2. Dodgers
 
 * Andrew Kim
@@ -15,6 +18,7 @@
 3. Flexfit
 * Michael
 * Samuel Lee
+* Jayden Ha
 4. Sierra Madre
 Connor Schulz
 Sarah Lu
