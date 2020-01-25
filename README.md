@@ -14,6 +14,7 @@
 3. Flexfit
 * Michael
 * Samuel Lee
+* Jayden Ha
 4. Sierra Madre
 Connor Schulz
 Sarah Lu
