@@ -4,6 +4,7 @@
 
 # Teams
 1. Avvo
+* Sarah Tritschler
 2. Dodgers
 
 * Andrew Kim
