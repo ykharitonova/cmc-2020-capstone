@@ -8,6 +8,7 @@
 
 * Andrew Kim
 * Josh Tatum
+* Yao Li
 
 3. Flexfit
   Michael
