@@ -17,16 +17,21 @@
 * Yao Li
 
 3. Flexfit
- * Laky
+* Laky
 * Michael
 * Samuel Lee
 * Jayden Ha
 
 4. Sierra Madre
-Connor Schulz
-Sarah Lu
+* Austin Long
+* Connor Schulz
+* Sarah Lu
+
 5. Wellpath
-  Casey Morris
+* Anna
+* Lindsey
+* Xinran Xing
+* Casey Morris
 
 ## Helpful tips
 
