@@ -18,6 +18,7 @@
 Connor Schulz
 Sarah Lu
 5. Wellpath
+  Casey Morris
 
 ## Helpful tips
 
