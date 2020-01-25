@@ -7,6 +7,7 @@
 2. Dodgers
 3. Flexfit
 4. Sierra Madre
+Connor Schulz
 5. Wellpath
 
 ## Helpful tips
